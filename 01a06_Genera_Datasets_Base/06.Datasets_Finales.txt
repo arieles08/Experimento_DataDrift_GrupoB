@@ -1,0 +1,14 @@
+06.0.Baseline.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dInRpsAz4tdJiZEg?e=loo0wB
+
+
+06.1.rank_cero_fijo.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dLrIyGa6t5bKtonQ?e=KTNw3J
+
+
+06.2.rank_directo.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dM7CIbmSNVQZpmQg?e=hOAqn5
+
+
+06.3.scale.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dNDsFwhUEhy7yEFw?e=wOdywC

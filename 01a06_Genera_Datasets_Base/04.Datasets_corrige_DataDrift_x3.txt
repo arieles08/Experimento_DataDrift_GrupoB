@@ -1,0 +1,11 @@
+04.1.dataset_rankcerofijo.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dAL7vdlEXav71V3Q?e=1pBlUS
+
+
+04.2.dataset_rankdirecto.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dBxNPb5ex7GuFowA?e=puRzST
+
+
+04.3.dataset_scale.csv.gz
+LINK: https://1drv.ms/u/s!ApfSip9jN34Vg8dC5F_IjA1BTUzbNg?e=KHRQXw
+
